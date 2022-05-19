@@ -1,0 +1,5 @@
+build:
+  Procfile:
+    web: Procfile
+run:
+  web: bash start.sh
