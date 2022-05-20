@@ -1,5 +1,0 @@
-build:
-  Dockerfile:
-    worker: Procfile
-run:
-  worker: bash start.sh
